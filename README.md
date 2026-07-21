@@ -7,6 +7,7 @@ This site publishes the current legal documentation for AssessmentTracker, an in
 - [End User License Agreement](EULA.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Third-Party Services](THIRD_PARTY_SERVICES.md)
+- [Support](SUPPORT.md)
 
 ## Contact
 

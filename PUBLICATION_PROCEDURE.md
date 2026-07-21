@@ -10,13 +10,13 @@ Governed by ADR-008. Two parts: one-time setup (creating the Publication Reposit
 
 1. Create the Publication Repository (public, empty).
 2. Add `README.md` (from this folder) as its `README.md`.
-3. Follow "Per-publish procedure" below for `EULA.md` and `PRIVACY_POLICY.md` (and `THIRD_PARTY_SERVICES.md`, if included).
+3. Follow "Per-publish procedure" below for `EULA.md`, `PRIVACY_POLICY.md`, `THIRD_PARTY_SERVICES.md`, and `SUPPORT.md`.
 4. Choose a Publication Platform and point it at the Publication Repository, following that platform's own setup instructions (see ADR-008 for platform neutrality -- no platform is prescribed here).
 5. Verify each document is reachable over HTTPS before submitting URLs to Intuit.
 
 ## Per-publish procedure
 
-Used whenever `legal/EULA.md`, `legal/PRIVACY_POLICY.md`, or `legal/THIRD_PARTY_SERVICES.md` changes in the AssessmentTracker Repository.
+Used whenever `legal/EULA.md`, `legal/PRIVACY_POLICY.md`, `legal/THIRD_PARTY_SERVICES.md`, or `legal/SUPPORT.md` changes in the AssessmentTracker Repository.
 
 1. Confirm the change already went through its own review in the AssessmentTracker Repository -- this procedure publishes an approved document, it does not review legal content.
 2. Copy the changed file's substantive text into the Publication Repository, unchanged.
