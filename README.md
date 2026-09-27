@@ -9,6 +9,11 @@ This site publishes the current legal documentation for AssessmentTracker, an in
 - [Third-Party Services](THIRD_PARTY_SERVICES.md)
 - [Support](SUPPORT.md)
 
+### AssessmentTracker Development
+
+- [Terms of Use](assessmenttracker-development/terms/)
+- [Privacy Policy](assessmenttracker-development/privacy/)
+
 ## Contact
 
 Peter Holdorf
